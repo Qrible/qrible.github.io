@@ -1,2 +1,0 @@
-# qrible.github.io
-Website
